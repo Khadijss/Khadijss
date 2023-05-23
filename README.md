@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there i'm Khadidja 👋
+## A new developer
+**I’m currently learning **
+- Java
+- Algorithms
+- SQL
+- HTML/CSS
 
-<!--
-**Khadijss/Khadijss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m working on a TicTacToe game on Java
+ ![alt text](tic-tac-toe-150614_960_720.png)
+ 
+ Ask me about French accounting 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
